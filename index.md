@@ -30,7 +30,7 @@ While this journey has been very rewarding, I realised all of this which I learn
 
 <br>
 ## Contact
-Email at **guptahardik21@gmail.com** describing your troubles and we can get started. You can also connect with me on <p><a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a></p>
+Email at **guptahardik21@gmail.com** describing your troubles and we can get started. You can also connect with me on <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
 <br>
 **Fees: Pay as per your heart**
 
