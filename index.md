@@ -2,14 +2,12 @@
 ---
 ## Mentorship Program
 
-Main focus of this program is to assist you in identifying the right resources given your current state of knowledge and guide you in every decision of your learning journey. 
+Main focus of this program is to assist you in identifying right resources to maximise learning and guide you in every decision of your learning journey. 
 
 ## Program Details
 
-Key Offerings
-
-1. Understand your background and evaluate whether this field is really meant for you (if you are a fresher).
-2. Help you design a curriculum based on where do you stand today with your knowledge.
+1. Understand your background and educate you whether this field is really meant for you (if you are a fresher).
+2. Help you design a curriculum based on your current knowledge and background.
 3. Identify resources which will maximise your learning (no compromise on quality) in shortest time.
 4. Conduct multiple mock interviews before your big day so that you feel confident and don't fumble. 
 5. Identify pain-points in your resume and help you build a strong portfolio.
@@ -21,7 +19,7 @@ If you are a someone who is considering to get started (complete fresher), or to
 Data science is a multidisciplinary field that uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to extract actionable insights from large and ever-growing data. It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.  
 
 ## My Learning Journey
-My journey started 5yrs ago which included understanding different aspect of this field from scratch. To summarise it involved 
+My journey started in Jan 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
 
 1. Why Data Science - Understand the importance of data and role it plays in building products and data monetisation
 2. Components of Data Science - Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
@@ -31,7 +29,7 @@ While this journey has been very rewarding, I realised all of this which I learn
 
 
 ## Contact
-Send me an email describing how can I help you and we can get started
+Send me an email at **guptahardik21@gmail.com** describing your troubles and we can get started
 
 ## Fees
 Pay as per your heart
