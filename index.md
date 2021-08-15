@@ -1,6 +1,44 @@
-# Portfolio
+# Learning Journey with Data Science
 ---
-## Natural Language Processing
+## Mentorship Program
+
+The main focus of this program is to assist you in identifying the right resources given your current state of knowledge and guide you in every decision of your learning journey. 
+
+Data science is a multidisciplinary field that helps to extract actionable insights from large and ever-growing data. It uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to add value to decision making. 
+
+It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning and building.  
+
+My own journey which started 5yrs ago included understanding every aspect of this field from scratch. To summarise it involved 
+
+1. Why Data Science - Understand the importance of data and role it plays in building products and data monetisation
+2. Components of Data Science - Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
+3. Learn Data Science - Scouting for resources, from short term course to masters and still learning every single day
+
+
+While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
+
+This program can really benefit, If you are someone who is
+
+1. Considering to get started (complete fresher)
+2. Took the first step (or even many steps) and still feel weak 
+3. Feel nervous before that important interview
+
+
+
+
+
+Who am I:
+I am a data scientist with a strong belief in bringing together intuition for product insights, data visualisation, art of feature engineering, mathematical modelling, scalable engineering and online experiments in collaborative environments. I have over 8 yrs. of experience including Data Science, Machine Learning and Deep Learning, across Gaming, Media/Entertainment, Logistics and Software domain. I bring strong expertise in translating business problem into data problem. I am a Gold Medal recipient in Advance Management Program in Business Analytics from Indian School of Business, with over 4200+ points on stack overflow 
+More about me here - https://www.linkedin.com/in/hardiklgupta/
+
+What do I offer:
+1. For freshers who are just getting started - Understand your journey and evaluate whether this field is really meant for you
+2. Help you design a curriculum and resources for yourself based on where do you stand today with your knowledge
+3. Conduct multiple mock interviews before your big day so that you feel confident and don't fumble. 
+4. Identify pain-points in your resume and help you build a strong portfolio
+
+Fees:
+Pay as per your heart
 
 ### CS224n: Natural Language Processing with Deep Learning
 
