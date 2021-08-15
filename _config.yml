@@ -15,15 +15,16 @@ description:
   8+ yrs. of experience including Data Science, Machine Learning and Deep Learning, across Gaming, Media/Entertainment, Logistics and Software domain. 
   Strong expertise in translating business problem into data problem. 
   4200+ points on stack overflow
+  </p>
   <br><br>
 
-  **Education**:
+  <p font-weight="bold"> 
+  Education
   - Gold Medal recipient in Advance Management Program in Business Analytics from Indian School of Business
   - Data Driven Modelling and Optimisation from Indian Institute of Science Bangalore (Grade A+)
   - Artificial intelligence with Deep Learning Certification from One Fourth Labs (IIT Madras research Park incubated start-up founded Professors at IIT Madras)
-  
-  <br><br>
   </p>
+  <br><br>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-145578661-1 # Google Analytics tracking ID
