@@ -4,6 +4,7 @@
 
 Main focus of this program is to assist you in identifying right resources to maximise learning and guide you in every decision of your learning journey. 
 
+
 ## Program Details
 
 1. Understand your background and educate you whether this field is really meant for you (if you are a fresher).
@@ -12,11 +13,15 @@ Main focus of this program is to assist you in identifying right resources to ma
 4. Conduct multiple mock interviews before your big day so that you feel confident and don't fumble. 
 5. Identify pain-points in your resume and help you build a strong portfolio.
 
-If you are a someone who is considering to get started (complete fresher), or took the first step (or even many steps) and still feel weak or feel nervous before that important interview, then we can get talking.
+
+## Contact
+Email at **guptahardik21@gmail.com** describing your troubles and we can get started
+**Fees: Pay as per your heart**
 
 
 ## Data Science
 Data science is a multidisciplinary field that uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to extract actionable insights from large and ever-growing data. It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.  
+
 
 ## My Learning Journey
 My journey started in Jan 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
@@ -28,9 +33,4 @@ My journey started in Jan 2016 which included understanding different aspect of 
 While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
 
-## Contact
-Send me an email at **guptahardik21@gmail.com** describing your troubles and we can get started
-
-## Fees
-Pay as per your heart
 
