@@ -14,12 +14,6 @@ Main focus of this program is to assist you in identifying right resources to ma
 5. Identify pain-points in your resume and help you build a strong portfolio.
 
 <br>
-## Contact
-Email at **guptahardik21@gmail.com** describing your troubles and we can get started
-<br>
-**Fees: Pay as per your heart**
-
-<br>
 ## Data Science
 Data science is a multidisciplinary field that uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to extract actionable insights from large and ever-growing data. It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.  
 
@@ -34,4 +28,9 @@ My journey started in Jan 2016 which included understanding different aspect of 
 While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
 
+<br>
+## Contact
+Email at **guptahardik21@gmail.com** describing your troubles and we can get started. We can also get connected on <p><a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
+<br>
+**Fees: Pay as per your heart**
 
