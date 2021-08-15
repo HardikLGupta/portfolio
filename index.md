@@ -4,7 +4,7 @@
 
 Main focus of this program is to assist you in identifying right resources to maximise learning and guide you in every decision of your learning journey. 
 
-
+<br>
 ## Program Details
 
 1. Understand your background and educate you whether this field is really meant for you (if you are a fresher).
@@ -30,7 +30,7 @@ While this journey has been very rewarding, I realised all of this which I learn
 
 <br>
 ## Contact
-Email at **guptahardik21@gmail.com** describing your troubles and we can get started. We can also get connected on <p><a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
+Email at **guptahardik21@gmail.com** describing your troubles and we can get started. You can also connect with me on <p><a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a></p>
 <br>
 **Fees: Pay as per your heart**
 
