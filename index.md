@@ -39,7 +39,7 @@ While this journey has been very rewarding, I realised all of this which I learn
 <br>
 ## Contact
 1. Email at **guptahardik21@gmail.com** and I will connect with you within 24hours. 
-2. We can also on <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
+2. We can also connect on <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
 3. Based on requirements, we'll get started within 3-5 days.
 <br>
 

@@ -3,7 +3,7 @@ title: <p align="center"> Hardik Gupta </p>
 #logo: "/images/picture.png?raw=true"
 
 description:
-  <p align="center">
+  <p style="font-weight:bold; align:center;">
   <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a> |
   <a href="https://github.com/HardikLGupta">GitHub</a> |
   <a href="https://stackoverflow.com/users/3811401/hardik-gupta">StackOverflow</a>
@@ -13,7 +13,7 @@ description:
   Senior Data Scientist with 8+ yrs. of experience including Data Science, Machine Learning and Deep Learning, across Gaming, Media/Entertainment, Logistics and Software domain.
   </p>
 
-  <p style="font-weight:bold"> Education </p>
+  <p style="font-weight:bold;"> Education </p>
   <ul>
   <li>Gold Medal recipient in Advance Management Program in Business Analytics from ISB</li>
   <li>Data Driven Modelling and Optimisation from IISc Bangalore</li>
