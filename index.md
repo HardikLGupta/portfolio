@@ -2,17 +2,17 @@
 ---
 ## Mentorship Program
 
-<p style="font-weight:bold"> 1. Mock Interview </p><p>Conduct mock interviews based on practical Case Studies and questions SQL, Probability, Statistics, Programming, Machine Learning and Product thinking, asked by domestic and international companies.</p>
+<p style="font-weight:bold"> 1. Mock Interview </p><p>Conduct mock interviews based on practical Case Studies and questions on SQL, Probability, Statistics, Programming, Machine Learning and Product thinking.</p>
 
-<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - 1499/- </p>
+<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - INR 1499/- </p>
 1. One 60 minute session - Resume reading and Introduction to different evaluation rounds of interview.
 2. Three 60 minute Mock Interviews, followed by feedback and analysis.
 
 
 <p style="font-weight:bold"> 2. Resume Building </p><p>Identify pain-points in your resume, assist you in highlighting achievements and demonstrate your portfolio better.</p>
 
-<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - 599/-</p>
-1. One 120 minute session - Resume Reading, Understand Experience, followed by Detailed Analysis and resources to improve.
+<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - INR 599/-</p>
+1. One 120 minute session - Resume reading, understand experience, followed by detailed analysis and feedback.
 2. One 30 minute session - Final resume review
 
 
@@ -20,14 +20,12 @@
 <p> </p>
 
 <p style="font-weight:bold; color: #267CB9;"> Sessions and Price - Subject to requirement, based on candidate experience.</p>
-
-
-<br>
-## Data Science
-Data science is a multidisciplinary field that uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to extract actionable insights from large and ever-growing data. It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.  
+ 
 
 <br>
-## My Learning Journey
+## Why Choose a Mentor
+Data science is a multidisciplinary field that includes knowledge from multiple fields. It's a very interesting career field which is rewarding - both work and monetary wise. However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.
+
 My journey started in January 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
 
 1. Why Data Science: Understand the importance of data and role it plays in building products and data monetisation
