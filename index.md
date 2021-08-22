@@ -28,9 +28,9 @@ Data science is a multidisciplinary field that promises to be rewarding - both w
 
 My journey started in January 2016 which included understanding different aspect from scratch. To summarise it involved answering
 
-1. Why Data Science: Understand the importance of data and the role it plays in building products and data monetisation
-2. Components of Data Science: Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
-3. Learn Data Science: Scouting for resources, from short term course to masters and still learning every single day
+1. <p style="font-style: italic;">Why Data Science:</p> Understand the importance of data and the role it plays in building products and data monetisation
+2. <p style="font-style: italic;">Components of Data Science:</p> Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
+3. <p style="font-style: italic;">Learn Data Science:</p> Scouting for resources, from short term course to masters and still learning every single day
 
 While this journey has been very rewarding personally, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
