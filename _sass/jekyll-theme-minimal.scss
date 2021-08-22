@@ -112,7 +112,7 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  padding-top: 20px;
+  --padding-top: 20px;
 }
 
 ul.downloads {
@@ -182,9 +182,7 @@ section {
   padding-bottom:50px;
   text-align: justify;
   background-color: #f8faff;
-  padding-left: 40px;
-  padding-right: 40px;
-  padding-top: 20px;
+  padding: 20px 40px 20px 40px;
 }
 
 small {
@@ -226,7 +224,7 @@ footer {
   section {
     border:1px solid #e5e5e5;
     border-width:1px 0;
-    padding:20px 0;
+    padding:20px 20px;
     margin:0 0 20px;
   }
 
