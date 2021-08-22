@@ -2,27 +2,10 @@
 ---
 ## Mentorship Program
 
-1. <p style="font-weight:bold"> Mock Interview </p>: Conduct multiple mock interviews, including case studies and practical questions on Probability, Statistics, Programming, Machine Learning asked by domestic and international companies.
-2. <p style="font-weight:bold"> Resume Building </p>: Identify pain-points in your resume, highlight achievements help you build a strong portfolio.
-Understand your background and educate you whether this field is really meant for you.
-2. Design a curriculum based on your experience and background.
-3. Identify resources which will maximise your learning (no compromise on quality) in shortest time.
-4. Conduct multiple mock interviews before your big day. 
-5. 
+<p style="font-weight:bold"> 1. Mock Interview </p><p>Conduct mock interviews based on practical Case Studies and questions on tech - SQL, Probability, Statistics, Programming, Machine Learning and Product thinking, asked by domestic and international companies.</p>
+<p style="font-weight:bold"> 2. Resume Building </p><p>Identify pain-points in your resume, assist you in highlighting achievements and demonstrate your portfolio better.</p>
+<p style="font-weight:bold"> 3. Curriculum Designing </p><p>Define your learning journey based on your experience and background which will maximise your learning (no compromise on quality) in shortest time.</p>
 
-
-## Mentorship Program
-
-Main focus of this program is to assist you in identifying right resources to maximise learning and guide you in every decision of your learning journey. 
-
-<br>
-## Program Details
-
-1. Understand your background and educate you whether this field is really meant for you.
-2. Design a curriculum based on your experience and background.
-3. Identify resources which will maximise your learning (no compromise on quality) in shortest time.
-4. Conduct multiple mock interviews before your big day. 
-5. Identify pain-points in your resume and help you build a strong portfolio.
 
 <br>
 ## Data Science
@@ -30,11 +13,11 @@ Data science is a multidisciplinary field that uses advance analytics, scientifi
 
 <br>
 ## My Learning Journey
-My journey started in Jan 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
+My journey started in January 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
 
-1. Why Data Science - Understand the importance of data and role it plays in building products and data monetisation
-2. Components of Data Science - Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
-3. Learn Data Science - Scouting for resources, from short term course to masters and still learning every single day
+1. Why Data Science: Understand the importance of data and role it plays in building products and data monetisation
+2. Components of Data Science: Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
+3. Learn Data Science: Scouting for resources, from short term course to masters and still learning every single day
 
 While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
