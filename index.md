@@ -2,15 +2,26 @@
 ---
 ## Mentorship Program
 
+1. <p style="font-weight:bold"> Mock Interview </p>: Conduct multiple mock interviews, including case studies and practical questions on Probability, Statistics, Programming, Machine Learning asked by domestic and international companies.
+2. <p style="font-weight:bold"> Resume Building </p>: Identify pain-points in your resume, highlight achievements help you build a strong portfolio.
+Understand your background and educate you whether this field is really meant for you.
+2. Design a curriculum based on your experience and background.
+3. Identify resources which will maximise your learning (no compromise on quality) in shortest time.
+4. Conduct multiple mock interviews before your big day. 
+5. 
+
+
+## Mentorship Program
+
 Main focus of this program is to assist you in identifying right resources to maximise learning and guide you in every decision of your learning journey. 
 
 <br>
 ## Program Details
 
-1. Understand your background and educate you whether this field is really meant for you (if you are a fresher).
-2. Help you design a curriculum based on your current knowledge and background.
+1. Understand your background and educate you whether this field is really meant for you.
+2. Design a curriculum based on your experience and background.
 3. Identify resources which will maximise your learning (no compromise on quality) in shortest time.
-4. Conduct multiple mock interviews before your big day so that you feel confident and don't fumble. 
+4. Conduct multiple mock interviews before your big day. 
 5. Identify pain-points in your resume and help you build a strong portfolio.
 
 <br>
