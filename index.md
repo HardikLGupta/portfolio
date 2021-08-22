@@ -24,15 +24,15 @@
 
 <br>
 ## Why Choose a Mentor
-Data science is a multidisciplinary field that includes knowledge from multiple fields. It's a very interesting career field which is rewarding - both work and monetary wise. However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.
+Data science is a multidisciplinary field that promises to be rewarding - both work and monetary wise. However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.
 
-My journey started in January 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
+My journey started in January 2016 which included understanding different aspect from scratch. To summarise it involved answering
 
-1. Why Data Science: Understand the importance of data and role it plays in building products and data monetisation
+1. Why Data Science: Understand the importance of data and the role it plays in building products and data monetisation
 2. Components of Data Science: Understand different blocks - Programming, Statistics and Maths, Algorithms, Product thinking and Domain knowledge
 3. Learn Data Science: Scouting for resources, from short term course to masters and still learning every single day
 
-While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
+While this journey has been very rewarding personally, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
 <br>
 ## Contact
