@@ -7,11 +7,10 @@
 <p style="font-weight:bold"> 3. Curriculum Designing </p><p>Define your learning journey based on your experience and background which will maximise your learning (no compromise on quality) in shortest time.</p>
 
 
-<br>
 ## Data Science
 Data science is a multidisciplinary field that uses advance analytics, scientific methods, algorithms, computer programming and domain knowledge to extract actionable insights from large and ever-growing data. It's a vast and very interesting field which is very rewarding (both work and monetary wise). However it is equally rigorous, requires building analytical thinking and a commitment to life-long learning.  
 
-<br>
+
 ## My Learning Journey
 My journey started in January 2016 which included understanding different aspect of this field from scratch. To summarise it involved answering
 
@@ -22,7 +21,6 @@ My journey started in January 2016 which included understanding different aspect
 While this journey has been very rewarding, I realised all of this which I learnt over a period of time could be covered in a shorter time only if I had proper guidance or a mentor. And this where I can help. 
 
 
-<br>
 ## Contact
 Email at **guptahardik21@gmail.com** describing your troubles and we can get started. You can also connect with me on <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
 <br><br>
