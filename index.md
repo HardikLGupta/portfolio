@@ -24,22 +24,24 @@ While this journey has been very rewarding, I realised all of this which I learn
 
 
 ## Pricing
-**1. Mock Interview: ** 
+**1. Mock Interview:** 
 1. 1 60 minute session - Resume reading and Introduction to different evaluation rounds of interview
 2. 3 60 minute Mock Interviews, followed by feedback and analysis. 
 
 **Price - 1999/-**
 
-**2. Resume Building: ** 
-1. 1 120 minute session - Resume reading, understand experience and background, followed by detailed feedback and analysis and resources to build resume.
+**2. Resume Building:** 
+1 120 minute session - Resume reading, understand experience and background, followed by detailed feedback and analysis and resources to build resume.
+
 **Price - 999/-**
 
-**3. Mock Interview + Resume Building: ** 
-1. Complete Mock Interview module and Resume Building
+**3. Mock Interview + Resume Building:** 
+Complete Mock Interview module and Resume Building
+
 **Price - 2599/-**
 
-**4. Curriculum: ** 
-1. Subject to requirement, based on candidate experience and background
+**4. Curriculum:** 
+Subject to requirement, based on candidate experience and background
 
 
 ## Contact
