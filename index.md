@@ -4,14 +4,14 @@
 
 <p style="font-weight:bold"> 1. Mock Interview </p><p>Conduct mock interviews based on practical Case Studies and questions SQL, Probability, Statistics, Programming, Machine Learning and Product thinking, asked by domestic and international companies.</p>
 
-**Sessions and Price - 1499/-**
+<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - 1499/- </p>
 1. One 60 minute session - Resume reading and Introduction to different evaluation rounds of interview.
 2. Three 60 minute Mock Interviews, followed by feedback and analysis.
 
 
 <p style="font-weight:bold"> 2. Resume Building </p><p>Identify pain-points in your resume, assist you in highlighting achievements and demonstrate your portfolio better.</p>
 
-**Sessions and Price - 599/-**
+<p style="font-weight:bold; color: #267CB9;"> Sessions and Price - 599/-</p>
 1. One 120 minute session - Resume Reading, Understand Experience, followed by Detailed Analysis and resources to improve.
 2. One 30 minute session - Final resume review
 
@@ -41,6 +41,6 @@ While this journey has been very rewarding, I realised all of this which I learn
 1. Email at **guptahardik21@gmail.com** and I will connect with you within 24hours. 
 2. We can also on <a href="https://www.linkedin.com/in/hardiklgupta/">LinkedIn</a>
 3. Based on requirements, we'll get started within 3-5 days.
-<br><br>
+<br>
 
 
