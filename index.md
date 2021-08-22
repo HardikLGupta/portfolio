@@ -3,6 +3,14 @@
 ## Mentorship Program
 
 <p style="font-weight:bold"> 1. Mock Interview </p><p>Conduct mock interviews based on practical Case Studies and questions SQL, Probability, Statistics, Programming, Machine Learning and Product thinking, asked by domestic and international companies.</p>
+
+**Sessions**
+1. 1 60 minute session - Resume reading and Introduction to different evaluation rounds of interview
+2. 3 60 minute Mock Interviews, followed by feedback and analysis. 
+
+**Price - 1999/-**
+
+
 <p style="font-weight:bold"> 2. Resume Building </p><p>Identify pain-points in your resume, assist you in highlighting achievements and demonstrate your portfolio better.</p>
 <p style="font-weight:bold"> 3. Curriculum Designing </p><p>Define your learning journey based on your experience and background which will maximise your learning (no compromise on quality) in shortest time.</p>
 <p> </p>
@@ -25,10 +33,7 @@ While this journey has been very rewarding, I realised all of this which I learn
 
 ## Pricing
 **1. Mock Interview:** 
-1. 1 60 minute session - Resume reading and Introduction to different evaluation rounds of interview
-2. 3 60 minute Mock Interviews, followed by feedback and analysis. 
 
-**Price - 1999/-**
 
 **2. Resume Building:** 
 1 120 minute session - Resume reading, understand experience and background, followed by detailed feedback and analysis and resources to build resume.
