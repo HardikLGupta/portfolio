@@ -1,4 +1,4 @@
-# Learning Journey with Data Science
+<h1 style="text-align: center;"> Learning Journey with Data Science </h1>
 ---
 ## Mentorship Program
 
